@@ -1,9 +1,14 @@
 import React, { FC } from 'react';
+import { Intro } from './components/intro/Intro.component';
 
 interface Props {}
 
 const LandingPage: FC<Props> = () => {
-  return <div data-testid="landing-page"></div>;
+  return (
+    <section data-testid="landing-page">
+      <Intro />
+    </section>
+  );
 };
 
 export { LandingPage };
