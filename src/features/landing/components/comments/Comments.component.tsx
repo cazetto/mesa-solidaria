@@ -8,7 +8,7 @@ const Comments: FC<Props> = () => {
     <Box width="100%" data-testid="comments">
       <div
         className="fb-comments"
-        data-href="https://mesasolidaria.netlify.app/"
+        data-href="https://www.facebook.com/mesaSolidariaTiete"
         data-width="100%"
         data-numposts="6"
       ></div>

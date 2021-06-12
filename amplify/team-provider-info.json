@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mesasolidaria-dev-91539-authRole",
+      "UnauthRoleArn": "arn:aws:iam::968730709996:role/amplify-mesasolidaria-dev-91539-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::968730709996:role/amplify-mesasolidaria-dev-91539-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mesasolidaria-dev-91539-deployment",
+      "UnauthRoleName": "amplify-mesasolidaria-dev-91539-unauthRole",
+      "StackName": "amplify-mesasolidaria-dev-91539",
+      "StackId": "arn:aws:cloudformation:us-east-1:968730709996:stack/amplify-mesasolidaria-dev-91539/ec5740a0-cb77-11eb-be2d-1211ae29fc7a",
+      "AmplifyAppId": "d2m8gen6xb28cx"
+    }
+  }
+}
